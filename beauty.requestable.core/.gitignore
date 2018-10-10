@@ -1,0 +1,8 @@
+/.classpath
+**/.DS_Store
+**/*.class
+**/*.lst
+**/*.prefs
+**/*.settings
+**/*.jar
+/.project
